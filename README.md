@@ -1,1 +1,2 @@
-# project-1
+Practice sheet one is the employee login where the employee can add and view bus schedules or modify and delete the bus schedules. The username and password is Michelle and Meechee respectively for employee number one or user2 and password2 for the second employee.
+Practice sheet two is where the customer has prompts for either viewing the available bus schedules, search for a bus schedule according to the source and destination, view available seats, book seats, cancel booking according to the customer's name and lastly view the recent bookings if any were made.
